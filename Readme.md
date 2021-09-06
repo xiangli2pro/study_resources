@@ -28,6 +28,8 @@
 
 2.7 [Advanced R](https://adv-r.hadley.nz/index.html)
 
+2.8 [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/)
+
 #### 3. R Blogs
 
 3.1 [Yihui Xie](https://yihui.org/en/)
