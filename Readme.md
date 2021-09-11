@@ -41,4 +41,7 @@
 3.4 [0-fold Cross-Validation](https://www.alexejgossmann.com)
 
 
+### Shell
 
+1. [Unix Tutorial One](http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html)
+2. [userland](https://p1k3.com/userland-book/)
