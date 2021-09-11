@@ -45,3 +45,8 @@
 
 1. [Unix Tutorial One](http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html)
 2. [userland](https://p1k3.com/userland-book/)
+
+### Git
+
+1. [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html)
+2. [Git Pretty](http://justinhileman.info/article/git-pretty/)
