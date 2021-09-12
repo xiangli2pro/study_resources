@@ -50,3 +50,6 @@
 
 1. [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html)
 2. [Git Pretty](http://justinhileman.info/article/git-pretty/)
+
+### Hugo
+1. Update posts: `hugo server -D` -> `^C` -> `hugo` -> `cd public` -> `git add .` -> `git commit` -> `git push`
