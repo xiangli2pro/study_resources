@@ -53,3 +53,5 @@
 
 ### Hugo
 1. Update posts: `hugo server -D` -> `^C` -> `hugo` -> `cd public` -> `git add .` -> `git commit` -> `git push`
+
+### Test change
